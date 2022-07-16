@@ -8,7 +8,7 @@ I started making this just because I wish this game existed in real life.
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/tXw0SnAYcvw)
 
 # Development Environment
 
